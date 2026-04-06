@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6703ea89-6dfc-48c4-9b8e-f51cb1289374" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/DoAn_SpringBoot/BackEnd" value="3AjWfzXU50VPhQYtInQVM7FD9HK" />
+      <entry key="_D:/Project_Online_Course_Selling_Web/BackEnd" value="3BI2xvOAVNOLsByHWsMssx07bQk" />
+      <entry key="_D:/Project_Online_Course_Selling_Web/BackEnd_SpringBoot" value="3BTvQc4WllkhX2r1DH5r1NSCu5a" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="GPT-5.3-Codex" />
+      <entry key="agent-panel" value="GPT-5.3-Codex" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;TriItMyName&quot;,
+      &quot;author&quot;: &quot;TriItMyName&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TriItMyName&quot;,
+    &quot;author&quot;: &quot;TriItMyName&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TriItMyName/Project_Online_Course_Selling_Web.git&quot;,
+    &quot;accountId&quot;: &quot;15acf886-ddab-410c-9675-be365b650f81&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3AjWfzXU50VPhQYtInQVM7FD9HK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BackEndApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project_Online_Course_Selling_Web/BackEnd_SpringBoot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DoAn_SpringBoot\BackEnd\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BackEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="SpringBootBE.BackEnd.BackEndApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6703ea89-6dfc-48c4-9b8e-f51cb1289374" name="Changes" comment="" />
+      <created>1773106570435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773106570435</updated>
+      <workItem from="1773106572285" duration="4217000" />
+      <workItem from="1773112396492" duration="396000" />
+      <workItem from="1773112810236" duration="4002000" />
+      <workItem from="1773117383741" duration="4077000" />
+      <workItem from="1773565976589" duration="7624000" />
+      <workItem from="1773574138082" duration="3698000" />
+      <workItem from="1773709699783" duration="7744000" />
+      <workItem from="1773725607856" duration="1164000" />
+      <workItem from="1773899508366" duration="277000" />
+      <workItem from="1773926378965" duration="7157000" />
+      <workItem from="1773933888503" duration="3346000" />
+      <workItem from="1773975691605" duration="321000" />
+      <workItem from="1774075857856" duration="1218000" />
+      <workItem from="1774153580733" duration="1651000" />
+      <workItem from="1774162505979" duration="1195000" />
+      <workItem from="1774525852796" duration="173000" />
+      <workItem from="1774752363321" duration="2118000" />
+      <workItem from="1775091379174" duration="5000" />
+      <workItem from="1775138710222" duration="1287000" />
+      <workItem from="1775142956874" duration="2249000" />
+      <workItem from="1775213245971" duration="1777000" />
+      <workItem from="1775215465964" duration="4434000" />
+      <workItem from="1775264831230" duration="566000" />
+      <workItem from="1775265663268" duration="256000" />
+      <workItem from="1775398735471" duration="1056000" />
+    </task>
+    <task id="LOCAL-00001" summary="upload Model_Controller_Repository_Serivce(User,Role,Permission,Login,Resgister)">
+      <option name="closed" value="true" />
+      <created>1774163061051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774163061051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload Model_Controller_Repository_Serivce(User,Role,Permission,Login,Resgister)">
+      <option name="closed" value="true" />
+      <created>1774525869225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774525869225</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testcase(Login, Register, MomoPayment, VideoAsset, Enrollment)">
+      <option name="closed" value="true" />
+      <created>1774754481330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774754481330</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="upload Model_Controller_Repository_Serivce(User,Role,Permission,Login,Resgister)" />
+    <MESSAGE value="Testcase(Login, Register, MomoPayment, VideoAsset, Enrollment)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testcase(Login, Register, MomoPayment, VideoAsset, Enrollment)" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
